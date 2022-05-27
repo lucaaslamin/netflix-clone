@@ -1,4 +1,4 @@
-# Interface do NETFLIX, onde usei HTML, CSS, JavaScript e jQuery
+# Interface do NETFLIX, desafio curso Front-end DIO
 
 **App overview**
 
